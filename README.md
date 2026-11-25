@@ -1,7 +1,7 @@
 ## Systems profile
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=not-guerra&theme=minimal&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186563846%3Fv%3D4" alt="not-guerra hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=not-guerra&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186563846%3Fv%3D4" alt="not-guerra hero visual" />
 </p>
 
 **Nicholas Guerra** · Product-minded developer
@@ -23,7 +23,7 @@ Building useful things and learning in public.
 <p><code>not-guerra@github:~$ toolbox --list</code></p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=not-guerra&theme=minimal&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186563846%3Fv%3D4" alt="not-guerra stack visual" />
+  <img src="https://www.gitskins.com/api/section/stack?username=not-guerra&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186563846%3Fv%3D4" alt="not-guerra stack visual" />
 </p>
 
 ## System signals
@@ -42,13 +42,13 @@ Building useful things and learning in public.
 - [Elaborato-di-DataBase](https://github.com/NoT-Guerra/Elaborato-di-DataBase) — PHP · 0 stars
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=not-guerra&theme=minimal&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186563846%3Fv%3D4" alt="not-guerra heatmap visual" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=not-guerra&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186563846%3Fv%3D4" alt="not-guerra heatmap visual" />
 </p>
 
 ## Open a channel
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=not-guerra&theme=minimal&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186563846%3Fv%3D4" alt="not-guerra social visual" />
+  <img src="https://www.gitskins.com/api/section/social?username=not-guerra&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186563846%3Fv%3D4" alt="not-guerra social visual" />
 </p>
 
 <a href="https://github.com/not-guerra">GitHub</a>
