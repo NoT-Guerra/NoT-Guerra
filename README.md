@@ -6,9 +6,6 @@
 
 **Nicholas Guerra** · Product-minded developer
 
-![Forged Carbon](https://img.shields.io/badge/Forged%20Carbon-181A1B?style=flat-square)
-![Titanium Silver](https://img.shields.io/badge/Titanium%20Silver-8A9298?style=flat-square)
-
 ## Runtime notes
 
 <pre><code>ROLE        = Backend or systems engineer
